@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\bin\Debug\OpenFileSaveFile.exe.config
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\bin\Debug\OpenFileSaveFile.exe
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\bin\Debug\OpenFileSaveFile.pdb
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.Form1.resources
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.Properties.Resources.resources
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.exe
+C:\Users\User\source\repos\OpenFileSaveFile\OpenFileSaveFile\obj\Debug\OpenFileSaveFile.pdb
